@@ -1,0 +1,61 @@
+header{
+    background-color: rgb(62, 32, 32);
+    padding-top: 10px;
+    padding-bottom: 15px;
+    
+}
+
+.name{
+    color: rgb(215, 183, 183);
+    font-family:Verdana;
+}
+
+section{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.aboutme{
+    background-color: rgb(177, 177, 177);
+    margin: 10px;
+    width: 1500px;
+    height: 100px;
+    font-family:Verdana;
+    color: rgb(25, 25, 25);
+    border-radius: 20px;
+    background-color: gray;
+
+}
+
+.skills{
+    background-color: rgb(177, 177, 177);
+    margin: 10px;
+    width: 1500px;
+    height: 190px;
+    font-family:Verdana;
+    color: rgb(25, 25, 25);
+    border-radius: 20px;
+    background-color: gray;
+}
+
+.education{
+    background-color: rgb(177, 177, 177);
+    margin: 10px;
+    width: 1500px;
+    height: 130px;
+    font-family:Verdana;
+    color: rgb(25, 25, 25);
+    border-radius: 20px;
+    background-color: gray;
+}
+
+.section{
+    margin: 0 auto;
+    text-align: center;
+    width: 1200px;
+    border-radius: 10px;
+    background-color: greenyellow;
+    padding: 10px;
+    
+}
+
